@@ -9,7 +9,7 @@
 8. Dynamic Feature Learning for Partial Face Recognition
 9. Context-aware Deep Feature Compression for High-speed Visual Tracking
 10. Between-class Learning for Image Classification
-11. DVQA: Understanding Data Visualization via Question Answering
+11. [DVQA: Understanding Data Visualization via Question Answering](https://arxiv.org/abs/1801.08163)
 12. Human Appearance Transfer
 13. [Learning to Segment Every Thing](http://arxiv.org/abs/1711.10370v2)
 14. Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation
