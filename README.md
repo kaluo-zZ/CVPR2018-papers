@@ -2,7 +2,7 @@
 1. [Transductive Unbiased Embedding for Zero-Shot Learning](http://arxiv.org/abs/1803.11320v1)
 2. [Frustum PointNets for 3D Object Detection from RGB-D Data](http://arxiv.org/abs/1711.08488v2)
 3. Enhancing the Spatial Resolution of Stereo Images using a Parallax Prior
-4. [DiverseNet: When One Right Answer Is Not Enough](cs.bath.ac.uk/~nc537/papers/cvpr18_diversenet.pdf)
+4. [DiverseNet: When One Right Answer Is Not Enough](https://cs.bath.ac.uk/~nc537/papers/cvpr18_diversenet.pdf)
 5. SSNet: Scale Selection Network for Online 3D Action Prediction
 6. Very Large-Scale Global SfM by Distributed Motion Averaging
 7. PAD-Net: Multi-Tasks Guided Prediciton-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing
