@@ -23,7 +23,7 @@
 22. [Context-aware Synthesis for Video Frame Interpolation](http://arxiv.org/abs/1803.10967v1)
 23. Lean Multiclass Crowdsourcing
 24. Unsupervised Deep Generative Adversarial Hashing Network
-25. R-FCN-3000 at 30fps: Decoupling Detection and Classification
+25. [R-FCN-3000 at 30fps: Decoupling Detection and Classification](http://arxiv.org/abs/1712.01802v1)
 26. [Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge](http://arxiv.org/abs/1708.02711v1)
 27. [Gated Fusion Network for Single Image Dehazing](http://arxiv.org/abs/1804.00213v1)
 28. [Learning a Complete Image Indexing Pipeline](http://arxiv.org/abs/1712.04480v1)
