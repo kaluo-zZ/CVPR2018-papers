@@ -1,7 +1,7 @@
 # CVPR2018-papers
 1. [Transductive Unbiased Embedding for Zero-Shot Learning](http://arxiv.org/abs/1803.11320v1)
 2. [Frustum PointNets for 3D Object Detection from RGB-D Data](http://arxiv.org/abs/1711.08488v2)
-3. Enhancing the Spatial Resolution of Stereo Images using a Parallax Prior
+3. [Enhancing the Spatial Resolution of Stereo Images using a Parallax Prior](http://vclab.kaist.ac.kr/cvpr2018/CVPR2018_Stereo_SR.pdf)
 4. [DiverseNet: When One Right Answer Is Not Enough](http://cs.bath.ac.uk/~nc537/papers/cvpr18_diversenet.pdf)
 5. SSNet: Scale Selection Network for Online 3D Action Prediction
 6. Very Large-Scale Global SfM by Distributed Motion Averaging
