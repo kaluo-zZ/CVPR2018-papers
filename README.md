@@ -9,10 +9,10 @@
 8. Dynamic Feature Learning for Partial Face Recognition
 9. [Context-aware Deep Feature Compression for High-speed Visual Tracking](http://arxiv.org/abs/1803.10537v1)
 10. [Between-class Learning for Image Classification](http://arxiv.org/abs/1711.10284v2)
-11. DVQA: Understanding Data Visualization via Question Answering
+11. [DVQA: Understanding Data Visualizations via Question Answering](https://arxiv.org/abs/1801.08163)
 12. Human Appearance Transfer
 13. [Learning to Segment Every Thing](http://arxiv.org/abs/1711.10370v2)
-14. Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation
+14. [Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation](http://rcv.kaist.ac.kr/?module=file&act=procFileDownload&file_srl=5901&sid=2f4e9c295c2668ed5fb97f9fa14ad79c&module_srl=4502)
 15. Re-weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation
 16. [Learning to Compare: Relation Network for Few-Shot Learning](http://arxiv.org/abs/1711.06025v2)
 17. Arbitrary Style Transfer with Deep Feature Reshuffle
