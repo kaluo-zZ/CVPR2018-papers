@@ -503,7 +503,7 @@
 502. [Weakly Supervised Action Localization by Sparse Temporal Pooling Network](http://arxiv.org/abs/1712.05080v2)
 503. [Viewpoint-aware Video Summarization](http://arxiv.org/abs/1804.02843v2)
 504. 4D Human Body Correspondences from Panoramic Depth Maps
-505. DS*: Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems
+505. [DS*: Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems](https://arxiv.org/abs/1711.10733)
 506. Discovering Point Lights with Intensity Distance Fields
 507. [The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks](http://arxiv.org/abs/1705.08790v2)
 508. [Geometry-aware Deep Network for Single-Image Novel View Synthesis](http://arxiv.org/abs/1804.06008v1)
