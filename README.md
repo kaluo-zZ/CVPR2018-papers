@@ -12,10 +12,10 @@
 11. [DVQA: Understanding Data Visualizations via Question Answering](https://arxiv.org/abs/1801.08163)
 12. Human Appearance Transfer
 13. [Learning to Segment Every Thing](http://arxiv.org/abs/1711.10370v2)
-14. [Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation](http://rcv.kaist.ac.kr/?module=file&act=procFileDownload&file_srl=5901&sid=2f4e9c295c2668ed5fb97f9fa14ad79c&module_srl=4502)
+14. Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation
 15. Re-weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation
 16. [Learning to Compare: Relation Network for Few-Shot Learning](http://arxiv.org/abs/1711.06025v2)
-17. Arbitrary Style Transfer with Deep Feature Reshuffle
+17. [Arbitrary Style Transfer with Deep Feature Reshuffle](http://arxiv.org/abs/1805.04103v2)
 18. Dynamic Scene Deblurring Using Spatially Variant Recurrent Neural Networks
 19. [Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework](http://arxiv.org/abs/1803.10433v1)
 20. [Guided Proofreading of Automatic Segmentations for Connectomics](http://arxiv.org/abs/1704.00848v1)
@@ -65,7 +65,7 @@
 64. DocUNet: Document Image Unwarping via A Stacked U-Net
 65. Geometry Aware Optimization for Deep Learning: The Good Practice
 66. Learning to Detect Features in Texture Images
-67. LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation
+67. [LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation](http://arxiv.org/abs/1805.07036v1)
 68. [Spatially-Adaptive Filter Units for Deep Neural Networks](http://arxiv.org/abs/1711.11473v2)
 69. [Revisiting Video Saliency: A Large-scale Benchmark and a New Model](http://arxiv.org/abs/1801.07424v2)
 70. [Real-World Repetition Estimation by Div, Grad and Curl](http://arxiv.org/abs/1802.09971v1)
@@ -84,7 +84,7 @@
 83. [Quantization of Fully Convolutional Networks for Accurate Biomedical Image Segmentation](http://arxiv.org/abs/1803.04907v1)
 84. [Aperture Supervision for Monocular Depth Estimation](http://arxiv.org/abs/1711.07933v2)
 85. Divide and Conquer for Full-Resolution Light Field Deblurring
-86. [Multi-shot Pedestrian Re-identification via Sequential Decision Making](http://arxiv.org/abs/1712.07257v1)
+86. [Multi-shot Pedestrian Re-identification via Sequential Decision Making](http://arxiv.org/abs/1712.07257v2)
 87. Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features
 88. Depth-Aware Stereo Video Retargeting
 89. Multistage Adversarial Losses for Pose-Based Human Image Synthesis
@@ -94,11 +94,11 @@
 93. [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://arxiv.org/abs/1707.07998v3)
 94. Improving Color Reproduction Accuracy in the Camera Imaging Pipeline
 95. [Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks](http://arxiv.org/abs/1801.03454v2)
-96. Sketch-a-Classifier: Sketch-based Photo Classifier Generation
+96. [Sketch-a-Classifier: Sketch-based Photo Classifier Generation](http://arxiv.org/abs/1804.11182v1)
 97. [Learning Time/Memory-Efficient Deep Architectures with Budgeted Super Networks](http://arxiv.org/abs/1706.00046v3)
 98. [TOM-Net: Learning Transparent Object Matting from a Single Image](http://arxiv.org/abs/1803.04636v3)
 99. Estimation of Camera Locations in Highly Corrupted Scenarios: All About the Base, No Shape Trouble
-100. [Direction-aware Spatial Context Features for Shadow Detection](http://arxiv.org/abs/1712.04142v1)
+100. [Direction-aware Spatial Context Features for Shadow Detection](http://arxiv.org/abs/1712.04142v2)
 101. [Neural Motifs: Scene Graph Parsing with Global Context](http://arxiv.org/abs/1711.06640v2)
 102. [Object Referring in Videos with Language and Human Gaze](http://arxiv.org/abs/1801.01582v2)
 103. [Learning Transferable Architectures for Scalable Image Recognition](http://arxiv.org/abs/1707.07012v4)
@@ -118,11 +118,11 @@
 117. A Robust Generative Framework for Generalized Zero-Shot Learning
 118. Two can play this Game: Visual Dialog with Discriminative Visual Question Generation and Visual Question Answering
 119. Rotation-sensitive Regression for Oriented Scene Text Detection
-120. [Adversarial Feature Augmentation for Unsupervised Domain Adaptation](http://arxiv.org/abs/1711.08561v1)
+120. [Adversarial Feature Augmentation for Unsupervised Domain Adaptation](http://arxiv.org/abs/1711.08561v2)
 121. [Deep Regression Forests for Age Estimation](http://arxiv.org/abs/1712.07195v1)
 122. [FOTS: Fast Oriented Text Spotting with a Unified Network](http://arxiv.org/abs/1801.01671v2)
 123. SoS-RSC: A Sum-of-Squares Polynomial  Approach to Robustifying Subspace Clustering Algorithms
-124. Efficient Subpixel Refinement with Symbolic Linear Predictors
+124. [Efficient Subpixel Refinement with Symbolic Linear Predictors](http://arxiv.org/abs/1804.10750v1)
 125. Self-Supervised Feature Learning by Learning to Spot Artifacts
 126. [PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation](http://arxiv.org/abs/1711.10871v1)
 127. [Scale-recurrent Network for Deep Image Deblurring](http://arxiv.org/abs/1802.01770v1)
@@ -141,7 +141,7 @@
 140. End-to-End Deep Kronecker-Product Matching for Person Re-identification
 141. Consensus Maximization for Semantic Region Correspondences
 142. [SBNet: Sparse Block’s Network for Fast Inference](http://arxiv.org/abs/1801.02108v1)
-143. Action Sets: Weakly Supervised Action Segmentation without Ordering Constraints
+143. [Action Sets: Weakly Supervised Action Segmentation without Ordering Constraints](http://arxiv.org/abs/1706.00699v2)
 144. Group Consistent Similarity Learning via Deep CRFs for Person Re-Identification
 145. Now You Shake Me: Towards Automatic 4D Cinema
 146. Defocus Blur Detection via Multi-Stream Bottom-Top-Bottom Fully Convolutional Network
@@ -183,7 +183,7 @@
 182. Environment Upgrade Reinforcement Learning for Non-differentiable Multi-stage Pipelines
 183. [Teaching Categories to Human Learners with Visual Explanations](http://arxiv.org/abs/1802.06924v1)
 184. [Facelet-Bank for Fast Portrait Manipulation](http://arxiv.org/abs/1803.05576v3)
-185. Convolutional Sequence to Sequence Model for Human Dynamics
+185. [Convolutional Sequence to Sequence Model for Human Dynamics](http://arxiv.org/abs/1805.00655v1)
 186. [Human Semantic Parsing for Person Re-identification](http://arxiv.org/abs/1804.00216v1)
 187. [Latent RANSAC](http://arxiv.org/abs/1802.07045v1)
 188. LiDAR-Video Driving Dataset: Learning Driving Policies Effectively
@@ -208,8 +208,8 @@
 207. Pose Transferrable Person Re-Identification
 208. [Hashing as Tie-Aware Learning to Rank](http://arxiv.org/abs/1705.08562v3)
 209. Baseline Desensitizing In Translation Averaging
-210. Conditional Image-to-Image Translation
-211. Blind Predicting Similar Quality Map for Image Quality Assessment
+210. [Conditional Image-to-Image Translation](http://arxiv.org/abs/1805.00251v1)
+211. [Blind Predicting Similar Quality Map for Image Quality Assessment](http://arxiv.org/abs/1805.08493v1)
 212. [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](http://arxiv.org/abs/1711.09577v2)
 213. CNN Driven Sparse Multi-Level B-spline Image Registration
 214. Through-Wall Human Pose Estimation Using Radio Signals
@@ -219,7 +219,7 @@
 218. Weakly Supervised Coupled Networks for Visual Sentiment Analysis
 219. [Ring loss: Convex Feature Normalization for Face Recognition](http://arxiv.org/abs/1803.00130v1)
 220. [Fast Spectral Ranking for Similarity Search](http://arxiv.org/abs/1703.06935v3)
-221. [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](http://arxiv.org/abs/1711.05769v1)
+221. [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](http://arxiv.org/abs/1711.05769v2)
 222. [AMNet: Memorability Estimation with Attention](http://arxiv.org/abs/1804.03115v1)
 223. Webly Supervised Learning Meets Zero-shot Learning: A Hybrid Approach for Fine-grained Classification
 224. [End-to-End Learning of Motion Representation for Video Understanding](http://arxiv.org/abs/1804.00413v1)
@@ -247,8 +247,8 @@
 246. [A Weighted Sparse Sampling and Smoothing Frame Transition Approach for Semantic Fast-Forward First-Person Videos](http://arxiv.org/abs/1802.08722v3)
 247. Recurrent Slice Networks for 3D Segmentation on Point Clouds
 248. Dimensionalitys Blessing: Detecting the distributions underlying images
-249. Augmented Skeleton Space Transfer for Depth-based Hand Pose Estimation
-250. Robust Classification with Convolutional Prototype Learning
+249. [Augmented Skeleton Space Transfer for Depth-based Hand Pose Estimation](http://arxiv.org/abs/1805.04497v1)
+250. [Robust Classification with Convolutional Prototype Learning](http://arxiv.org/abs/1805.03438v1)
 251. [DecideNet: Counting Varying Density Crowds Through Attention Guided Detection and Density Estimation](http://arxiv.org/abs/1712.06679v2)
 252. ICE-BA: Efficient, Consistent and Efficient Bundle Adjustment for Visual-Inertial SLAM
 253. [Grounding Referring Expressions in Images by Variational Context](http://arxiv.org/abs/1712.01892v2)
@@ -274,7 +274,7 @@
 273. Neural Style Transfer via Meta Networks
 274. [UV-GAN: Adversarial Facial UV Map Completion for Pose-invariant Face Recognition](http://arxiv.org/abs/1712.04695v1)
 275. [Cascaded Pyramid Network for Multi-Person Pose Estimation](http://arxiv.org/abs/1711.07319v2)
-276. [Detect-and-Track: Efficient Pose Estimation in Videos](http://arxiv.org/abs/1712.09184v1)
+276. [Detect-and-Track: Efficient Pose Estimation in Videos](http://arxiv.org/abs/1712.09184v2)
 277. SobolevFusion: 3D Reconstruction of Scenes Undergoing Free Non-rigid Motion
 278. [NAG: Network for Adversary Generation](http://arxiv.org/abs/1712.03390v2)
 279. Inferring Co-Attention in Social Scene Videos
@@ -287,7 +287,7 @@
 286. [Towards High Performance Video Object Detection](http://arxiv.org/abs/1711.11577v1)
 287. SurfConv: Bridging 3D and 2D Convolution for RGBD Images
 288. [People, Penguins and Petri Dishes: Adapting Object Counting Models To New Visual Domains And Object Types Without Forgetting](http://arxiv.org/abs/1711.05586v1)
-289. [Fully Convolutional Adaptation Networks for Semantic Segmentation](http://arxiv.org/abs/1804.08286v1)
+289. Fully Convolutional Adaptation Networks for Semantic Segmentation
 290. Towards Pose Invariant Face Recognition in the Wild
 291. Interactive Image Segmentation with Latent Diversity
 292. [Label Denoising Adversarial Network (LDAN) for Inverse Lighting of Face Images](http://arxiv.org/abs/1709.01993v1)
@@ -307,8 +307,8 @@
 306. Focus Manipulation Detection via Photometric Histogram Analysis
 307. [Density Adaptive Point Set Registration](http://arxiv.org/abs/1804.01495v1)
 308. Multi-view Harmonized Bilinear Network for 3D Object Recognition
-309. [SeGAN: Segmenting and Generating the Invisible](http://arxiv.org/abs/1703.10239v2)
-310. [VizWiz Grand Challenge: Answering Visual Questions from Blind People](http://arxiv.org/abs/1802.08218v3)
+309. [SeGAN: Segmenting and Generating the Invisible](http://arxiv.org/abs/1703.10239v3)
+310. [VizWiz Grand Challenge: Answering Visual Questions from Blind People](http://arxiv.org/abs/1802.08218v4)
 311. Sparse, Smart Contours to Represent and Edit Images
 312. Generative Non-Rigid Shape Completion with Graph Convolutional Autoencoders
 313. The power of ensembles for active learning in image classification
@@ -317,21 +317,21 @@
 316. [Adversarial Complementary Learning for Weakly Supervised Object Localization](http://arxiv.org/abs/1804.06962v1)
 317. [Analytical Modeling of Vanishing Points and Curves in Catadioptric Cameras](http://arxiv.org/abs/1804.09460v1)
 318. Exploit the Unknown Gradually:~ One-Shot Video-Based Person Re-Identification by Stepwise Learning
-319. Learning to Sketch with Shortcut Cycle Consistency
+319. [Learning to Sketch with Shortcut Cycle Consistency](http://arxiv.org/abs/1805.00247v1)
 320. [Domain Adaptive Faster R-CNN for Object Detection in the Wild](http://arxiv.org/abs/1803.03243v1)
 321. Attentive Generative Adversarial Network for Raindrop Removal from A Single Image
-322. [Independently Recurrent Neural Network (IndRNN): Building A Longer and Deeper RNN](http://arxiv.org/abs/1803.04831v1)
+322. [Independently Recurrent Neural Network (IndRNN): Building A Longer and Deeper RNN](http://arxiv.org/abs/1803.04831v3)
 323. Making Convolutional Networks Recurrent for Visual Sequence Learning
 324. Multi-Task Adversarial Network for Disentangled Feature Learning
 325. Fight ill-posedness with ill-posedness: Single-shot variational depth super-resolution from shading
 326. [Zero-Shot Sketch-Image Hashing](http://arxiv.org/abs/1803.02284v1)
 327. [Learning to Localize Sound Source in Visual Scenes](http://arxiv.org/abs/1803.03849v1)
 328. [Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation](http://arxiv.org/abs/1803.11365v1)
-329. Semi-parametric Image Synthesis
+329. [Semi-parametric Image Synthesis](http://arxiv.org/abs/1804.10992v1)
 330. [Multi-scale Location-aware Kernel Representation for Object Detection](http://arxiv.org/abs/1804.00428v1)
 331. W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection
 332. [Generative Modeling using the Sliced Wasserstein Distance](http://arxiv.org/abs/1803.11188v1)
-333. MX-LSTM: mixing tracklets and vislets to jointly forecast trajectories and head poses
+333. [MX-LSTM: mixing tracklets and vislets to jointly forecast trajectories and head poses](http://arxiv.org/abs/1805.00652v1)
 334. [Dynamic Video Segmentation Network](http://arxiv.org/abs/1804.00931v1)
 335. [Learning a Discriminative Feature Network for Semantic Segmentation](http://arxiv.org/abs/1804.09337v1)
 336. Video Person Re-identification with Competitive Snippet-similarity Aggregation and Co-attentive Snippet Embedding
@@ -382,7 +382,7 @@
 381. [Learning from Millions of 3D Scans for Large-scale 3D Face Recognition](http://arxiv.org/abs/1711.05942v2)
 382. [CBMV: A Coalesced Bidirectional Matching Volume for Disparity Estimation](http://arxiv.org/abs/1804.01967v1)
 383. Image Collection Pop-up: 3D Reconstruction and Clustering of Rigid and Non-Rigid Categories
-384. Ordinal Depth Supervision for 3D Human Pose Estimation
+384. [Ordinal Depth Supervision for 3D Human Pose Estimation](http://arxiv.org/abs/1805.04095v1)
 385. Learning to Hash by Discrepancy Minimization
 386. MapNet: Geometry-Aware Learning of Maps for Camera Localization
 387. [Im2Struct: Recovering 3D Shape Structure from a Single RGB Image](http://arxiv.org/abs/1804.05469v1)
@@ -393,9 +393,9 @@
 392. Camera Pose Estimation with Unknown Principal Point
 393. [Learning Spatial-Aware Regressions for Visual Tracking](http://arxiv.org/abs/1706.07457v2)
 394. The Easy, The Medium and The Hard: Adapting Across Varied Domain Shifts
-395. [Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation](http://arxiv.org/abs/1705.01314v3)
+395. [Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation](http://arxiv.org/abs/1705.01314v4)
 396. A Hybrid L1-L0 Layer Decomposition Model for Tone Mapping
-397. LIME: Live Intrinsic Material Estimation
+397. [LIME: Live Intrinsic Material Estimation](http://arxiv.org/abs/1801.01075v2)
 398. Learning Representations for Single Cells in Microscopy Images
 399. Transparency by Design: Closing the Gap Between Performance and Interpretabilty in Visual Reasoning
 400. [clcNet: Improving the Efficiency of Convolutional Neural Network using Channel Local Convolutions](http://arxiv.org/abs/1712.06145v3)
@@ -403,7 +403,7 @@
 402. LAMV: Learning to align and match videos with kernelized temporal layers
 403. Single Image Reflection Separation with Perceptual Losses
 404. [Structure from Recurrent Motion: From Rigidity to Recurrency](http://arxiv.org/abs/1804.06510v1)
-405. Customized Image Narrative Generation via Interactive Visual Question Generation and Answering
+405. [Customized Image Narrative Generation via Interactive Visual Question Generation and Answering](http://arxiv.org/abs/1805.00460v1)
 406. [Relation Networks for Object Detection](http://arxiv.org/abs/1711.11575v1)
 407. An End-to-End TextSpotter with Explicit Alignment and Attention
 408. [Photometric Stereo in Participating Media Considering Shape-Dependent Forward Scatter](http://arxiv.org/abs/1804.02836v2)
@@ -438,7 +438,7 @@
 437. [SGPN: Similarity Group Proposal Network for 3D  Point Cloud Instance Segmentation](http://arxiv.org/abs/1711.08588v1)
 438. [Memory Matching Networks for One-Shot Image Recognition](http://arxiv.org/abs/1804.08281v1)
 439. [Compressed Video Action Recognition](http://arxiv.org/abs/1712.00636v2)
-440. FFNet: Video Fast-Forwarding via Reinforcement Learning
+440. [FFNet: Video Fast-Forwarding via Reinforcement Learning](http://arxiv.org/abs/1805.02792v1)
 441. Representing and Learning High Dimensional Data with the Optimal Transport Map from a Probabilistic Viewpoint
 442. [ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans](http://arxiv.org/abs/1712.10215v2)
 443. Fully Convolutional Attention Network for Multimodal Reasoning
@@ -446,7 +446,7 @@
 445. [Recurrent Pixel Embedding for Instance Grouping](http://arxiv.org/abs/1712.08273v1)
 446. Name-removed-for-review: A Multi-camera HD Dataset for Dense Unscripted Pedestrian Detection
 447. [SGAN: An Alternative Training of Generative Adversarial Networks](http://arxiv.org/abs/1712.02330v1)
-448. Learning Markov Clustering Networks for Scene Text Detection
+448. [Learning Markov Clustering Networks for Scene Text Detection](http://arxiv.org/abs/1805.08365v1)
 449. Occlusion-Aware  Rolling Shutter Rectification of 3D Scenes
 450. [Beyond Gröbner Bases: Basis Selection for Minimal Solvers](http://arxiv.org/abs/1803.04360v1)
 451. [Improving Object Localization with Fitness NMS and Bounded IoU Loss](http://arxiv.org/abs/1711.00164v3)
@@ -468,7 +468,7 @@
 467. [Visual Feature Attribution using Wasserstein GANs](http://arxiv.org/abs/1711.08998v2)
 468. Tell Me Where To Look: Guided Attention Inference Network
 469. [Towards Open-Set Identity Preserving Face Synthesis](http://arxiv.org/abs/1803.11182v1)
-470. Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination
+470. [Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination](http://arxiv.org/abs/1805.01978v1)
 471. Multi-Evidence Fusion and Filtering for Weakly Supervised Object Recognition, Detection and Segmentation
 472. Deep Material-aware Cross-spectral Stereo Matching
 473. MakeupGAN: Makeup Transfer via Cycle-Consistent Adversarial Networks
@@ -477,13 +477,13 @@
 476. [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://arxiv.org/abs/1801.01615v1)
 477. [Jointly Localizing and Describing Events for Dense Video Captioning](http://arxiv.org/abs/1804.08274v1)
 478. The Best of Both Worlds: Combining CNNs and Geometric Constraints for Hierarchical Motion Segmentation
-479. [End-to-end learning of keypoint detector and descriptor for pose invariant 3D matching](http://arxiv.org/abs/1802.07869v1)
+479. [End-to-end learning of keypoint detector and descriptor for pose invariant 3D matching](http://arxiv.org/abs/1802.07869v2)
 480. [LDMNet: Low Dimensional Manifold Regularized Neural Networks](http://arxiv.org/abs/1711.06246v1)
 481. [3D Human Pose Estimation in the Wild by Adversarial Learning](http://arxiv.org/abs/1803.09722v2)
 482. Fast Video Object Segmentation by Reference-Guided Mask Propagation
 483. [End-to-End Dense Video Captioning with Masked Transformer](http://arxiv.org/abs/1804.00819v1)
 484. [Towards dense object tracking in a 2D honeybee hive](http://arxiv.org/abs/1712.08324v1)
-485. [Appearance-and-Relation Networks for Video Classification](http://arxiv.org/abs/1711.09125v1)
+485. [Appearance-and-Relation Networks for Video Classification](http://arxiv.org/abs/1711.09125v2)
 486. StarGAN: Unified Generative Adversarial Networks for Controllable Multi-Domain Image-to-Image Translation
 487. Answer with Grounding Snippets: Focal Visual-Text Attention for  Visual Question Answering
 488. GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB
@@ -494,24 +494,24 @@
 493. [Triplet-Center Loss for Multi-View 3D Object Retrieval](http://arxiv.org/abs/1803.06189v1)
 494. [Pixels, voxels, and views: A study of shape representations for single view 3D object shape prediction](http://arxiv.org/abs/1804.06032v1)
 495. Show Me a Story: Towards Coherent Neural Story Illustration
-496. DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map
+496. [DeLS-3D: Deep Localization and Segmentation with a 3D Semantic Map](http://arxiv.org/abs/1805.04949v1)
 497. [Missing Slice Recovery for Tensors Using a Low-rank Model in Embedded Space](http://arxiv.org/abs/1804.01736v1)
 498. [3D Semantic Segmentation with Submanifold Sparse Convolutional Networks](http://arxiv.org/abs/1711.10275v1)
-499. [Learning Compact Recurrent Neural Networks with Block-Term Tensor Decomposition](http://arxiv.org/abs/1712.05134v1)
+499. [Learning Compact Recurrent Neural Networks with Block-Term Tensor Decomposition](http://arxiv.org/abs/1712.05134v2)
 500. [Link and code: Fast indexing with graphs and compact regression codes](http://arxiv.org/abs/1804.09996v2)
 501. [Two-Stream Convolutional Networks for Dynamic Texture Synthesis](http://arxiv.org/abs/1706.06982v4)
 502. [Weakly Supervised Action Localization by Sparse Temporal Pooling Network](http://arxiv.org/abs/1712.05080v2)
 503. [Viewpoint-aware Video Summarization](http://arxiv.org/abs/1804.02843v2)
 504. 4D Human Body Correspondences from Panoramic Depth Maps
-505. [DS*: Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems](https://arxiv.org/abs/1711.10733)
+505. [Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems](http://arxiv.org/abs/1711.10733v1)
 506. Discovering Point Lights with Intensity Distance Fields
 507. [The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks](http://arxiv.org/abs/1705.08790v2)
 508. [Geometry-aware Deep Network for Single-Image Novel View Synthesis](http://arxiv.org/abs/1804.06008v1)
 509. Temporal Deformable Residual Networks for Action Segmentation in Videos
 510. [Seeing Small Faces from Robust Anchor's Perspective](http://arxiv.org/abs/1802.09058v1)
-511. Matryoshka Networks: Predicting 3D Geometry via Nested Shape Layers
+511. [Matryoshka Networks: Predicting 3D Geometry via Nested Shape Layers](http://arxiv.org/abs/1804.10975v1)
 512. On the Importance of Label Quality for Semantic Segmentation
-513. [AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions](http://arxiv.org/abs/1705.08421v3)
+513. [AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Actions](http://arxiv.org/abs/1705.08421v4)
 514. [First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations](http://arxiv.org/abs/1704.02463v2)
 515. [Learning Deep Sketch Abstraction](http://arxiv.org/abs/1804.04804v1)
 516. [Non-Linear Temporal Subspace Representations for Activity Recognition](http://arxiv.org/abs/1803.11064v1)
@@ -523,17 +523,17 @@
 522. [Deep Unsupervised Saliency Detection: A Multiple Noisy Labeling Perspective](http://arxiv.org/abs/1803.10910v1)
 523. [Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction](http://arxiv.org/abs/1801.03910v2)
 524. Recognize Actions by Disentangling Components of Dynamics
-525. [Who Let The Dogs Out? Modeling Dog Behavior From Visual Data](http://arxiv.org/abs/1803.10827v1)
+525. [Who Let The Dogs Out? Modeling Dog Behavior From Visual Data](http://arxiv.org/abs/1803.10827v2)
 526. [Alive Caricature from 2D to 3D](http://arxiv.org/abs/1803.06802v3)
 527. [Learning Steerable Filters for Rotation Equivariant CNNs](http://arxiv.org/abs/1711.07289v3)
 528. From source to target and back: Symmetric Bi-Directional Adaptive GAN
 529. Monocular Relative Depth Perception with Web Stereo Data Supervision
 530. [Correlation Tracking via Joint Discrimination and Reliability Learning](http://arxiv.org/abs/1804.08965v1)
-531. Boosting Domain Adaptation by Discovering Latent Domains
+531. [Boosting Domain Adaptation by Discovering Latent Domains](http://arxiv.org/abs/1805.01386v1)
 532. HSA-RNN: Hierarchical Structure-Adaptive RNN for Video Summarization
 533. [Learning from Noisy Web Data with Category-level Supervision](http://arxiv.org/abs/1803.03857v2)
 534. Embodied Real-World Active Perception
-535. Boosting Self-Supervised Learning via Knowledge Transfer
+535. [Boosting Self-Supervised Learning via Knowledge Transfer](http://arxiv.org/abs/1805.00385v1)
 536. [Video Captioning via Hierarchical Reinforcement Learning](http://arxiv.org/abs/1711.11135v3)
 537. Weakly Supervised Phrase Localization with Multi-Scale Anchored Transformer Network
 538. Progressively Complementarity-aware Fusion Network for RGB-D Salient Object Detection
@@ -574,7 +574,7 @@
 573. Optical Flow Guided Feature: A Motion Representation for Video Action Recognition
 574. [Multimodal Explanations: Justifying Decisions and Pointing to the Evidence](http://arxiv.org/abs/1802.08129v1)
 575. [HATS: Histograms of Averaged Time Surfaces for Robust Event-based Object Classification](http://arxiv.org/abs/1803.07913v1)
-576. [Imagine it for me: Generative Adversarial  Approach for Zero-Shot Learning from Noisy Texts](http://arxiv.org/abs/1712.01381v2)
+576. Imagine it for me: Generative Adversarial  Approach for Zero-Shot Learning from Noisy Texts
 577. Co-Occurrence Template Matching
 578. Defense against Universal Adversarial Perturbations
 579. [PPFNet: Global Context Aware Local Features for Robust 3D Point Matching](http://arxiv.org/abs/1802.02669v2)
@@ -608,12 +608,12 @@
 607. Deep Adversarial Subspace Clustering
 608. [Compassionately Conservative Balanced Cuts for Image Segmentation](http://arxiv.org/abs/1803.09903v1)
 609. [Deformable GANs for Pose-based Human Image Generation](http://arxiv.org/abs/1801.00055v2)
-610. Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration
+610. [Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration](http://arxiv.org/abs/1805.03857v2)
 611. [The iNaturalist Species Classification and Detection Dataset](http://arxiv.org/abs/1707.06642v2)
 612. Categorizing Concepts with Basic Level for Vision-to-Language
 613. InverseFaceNet: Deep Monocular Inverse Face Rendering at over 250 Hz
 614. Textbook Question Answering under Teacher Guidance with Memory Networks
-615. [Learning to Find Good Correspondences](http://arxiv.org/abs/1711.05971v1)
+615. [Learning to Find Good Correspondences](http://arxiv.org/abs/1711.05971v2)
 616. Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning
 617. [Adversarial Data Programming: Using GANs to Relax the Bottleneck of Curated Labeled Data](http://arxiv.org/abs/1803.05137v1)
 618. Weakly Supervised Facial Action Unit Recognition through Adversarial Training
@@ -644,7 +644,7 @@
 643. High-speed Tracking with Multi-kernel Correlation Filters
 644. Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification
 645. [Separating Style and Content for Generalized Style Transfer](http://arxiv.org/abs/1711.06454v5)
-646. Learning Dual Convolutional Neural Networks for Low-Level Vision
+646. [Learning Dual Convolutional Neural Networks for Low-Level Vision](http://arxiv.org/abs/1805.05020v1)
 647. [Wasserstein Introspective Neural Networks](http://arxiv.org/abs/1711.08875v5)
 648. [Deep Semantic Face Deblurring](http://arxiv.org/abs/1803.03345v2)
 649. [InLoc: Indoor Visual Localization with Dense Matching and View Synthesis](http://arxiv.org/abs/1803.10368v2)
@@ -710,7 +710,7 @@
 709. [Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++](http://arxiv.org/abs/1803.09693v1)
 710. [Nonlinear 3D Face Morphable Model](http://arxiv.org/abs/1804.03786v1)
 711. [OATM: Occlusion Aware Template Matching by Consensus Set Maximization](http://arxiv.org/abs/1804.02638v1)
-712. [Multi-Image Semantic Matching by Mining Consistent Features](http://arxiv.org/abs/1711.07641v1)
+712. [Multi-Image Semantic Matching by Mining Consistent Features](http://arxiv.org/abs/1711.07641v2)
 713. Explicit Loss-Error-Aware Quantization for Deep Neural Networks
 714. Modeling Facial Geometry using Compositional VAEs
 715. Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction
@@ -734,7 +734,7 @@
 733. Tight Nonconvex Relaxation of MAP Inference
 734. Multiple Granularity Group Interaction Prediction
 735. Accurate and Diverse Sampling of Sequences based on a ``Best of Many'' Sample Objective
-736. Learning Rich Features for Image Manipulation Detection
+736. [Learning Rich Features for Image Manipulation Detection](http://arxiv.org/abs/1805.04953v1)
 737. DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Network
 738. A Benchmark for Articulated Human Pose Estimation and Tracking
 739. [Preserving Semantic Relations for Zero-Shot Learning](http://arxiv.org/abs/1803.03049v1)
@@ -743,7 +743,7 @@
 742. [Joint Cuts and Matching of Partitions in One Graph](http://arxiv.org/abs/1711.09584v1)
 743. Fast and Accurate Online Video Object Segmentation via Tracking Parts
 744. Learning Nested Structures in Deep Neural Networks
-745. [Practical Block-wise Neural Network Architecture Generation](http://arxiv.org/abs/1708.05552v2)
+745. [Practical Block-wise Neural Network Architecture Generation](http://arxiv.org/abs/1708.05552v3)
 746. [AdaDepth: Unsupervised Content Congruent Adaptation for Depth Estimation](http://arxiv.org/abs/1803.01599v1)
 747. Modifying Non-Local Variations Across Multiple Views
 748. [Connecting Pixels to Privacy and Utility: Automatic Redaction of Private Information in Images](http://arxiv.org/abs/1712.01066v1)
@@ -776,7 +776,7 @@
 775. [V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map](http://arxiv.org/abs/1711.07399v2)
 776. [Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty](http://arxiv.org/abs/1711.09026v1)
 777. [Cross-modal Deep Variational Hand Pose Estimation](http://arxiv.org/abs/1803.11404v1)
-778. Learning to Estimate 3D Human Pose and Shape from a Single Color Image
+778. [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](http://arxiv.org/abs/1805.04092v1)
 779. Video Rain Removal By Multiscale Convolutional Sparse Coding
 780. Toward Driving Scene Understanding: A Dataset for Learning  Driver Behavior and Causal Reasoning
 781. Learning 3D Shape Completion from Point Clouds with Weak Supervision
@@ -786,10 +786,10 @@
 785. Rolling Shutter and Radial Distortion are Features for High Frame Rate Multi-camera Tracking
 786. Robust Hough Transform Based 3D Reconstruction from Circular Light Fields
 787. [Feedback-prop: Convolutional Neural Network Inference under Partial Evidence](http://arxiv.org/abs/1710.08049v2)
-788. [Learning Strict Identity Mappings in Deep Residual Networks](http://arxiv.org/abs/1804.01661v2)
+788. [Learning Strict Identity Mappings in Deep Residual Networks](http://arxiv.org/abs/1804.01661v3)
 789. [Residual Parameter Transfer for Deep Domain Adaptation](http://arxiv.org/abs/1711.07714v1)
 790. [Exploring Disentangled Feature Representation Beyond Face Identification](http://arxiv.org/abs/1804.03487v1)
-791. [SPLATNet: Sparse Lattice Networks for Point Cloud Processing](http://arxiv.org/abs/1802.08275v3)
+791. [SPLATNet: Sparse Lattice Networks for Point Cloud Processing](http://arxiv.org/abs/1802.08275v4)
 792. Unsupervised Training for 3D Morphable Model Regression
 793. A Bi-directional Message Passing Model for Salient Object Detection
 794. Learning to See in the Dark
@@ -816,7 +816,7 @@
 815. Anatomical Priors in Convolutional Networks for Unsupervised Biomedical Segmentation
 816. [Illuminant Spectra-based Source Separation Using Flash Photography](http://arxiv.org/abs/1704.05564v2)
 817. 3D Human Pose Reconstruction and Action Classification in Robot Assisted Therapy of Children with Autism
-818. [Discrete-Continuous ADMM for Transductive Inference in Higher-Order MRFs](http://arxiv.org/abs/1705.05020v4)
+818. [Discrete-Continuous ADMM for Transductive Inference in Higher-Order MRFs](http://arxiv.org/abs/1705.05020v5)
 819. [Classification Driven Dynamic Image Enhancement](http://arxiv.org/abs/1710.07558v3)
 820. [Feature Generating Networks for Zero-Shot Learning](http://arxiv.org/abs/1712.00981v2)
 821. Beyond Trade-off: Accelerate FCN-based Face Detection with Higher Accuracy
@@ -838,7 +838,7 @@
 837. PieAPP: Perceptual Image-Error Assessment through Pairwise Preference
 838. Cube Padding for Weakly-Supervised Saliency Prediction in 360$^{\circ}$ Videos
 839. CRRN: Multi-Scale Guided Concurrent Reflection Removal Network
-840. [Stereoscopic Neural Style Transfer](http://arxiv.org/abs/1802.10591v1)
+840. [Stereoscopic Neural Style Transfer](http://arxiv.org/abs/1802.10591v2)
 841. Low-shot Learning from Imaginary Data
 842. Fast, Simple, and Effective Resource-Constrained Structure Learning of Deep Networks
 843. [Unsupervised Sparse Dirichlet-Net for Hyperspectral Image Super-Resolution](http://arxiv.org/abs/1804.05042v1)
@@ -883,15 +883,15 @@
 882. [Neural Baby Talk](http://arxiv.org/abs/1803.09845v1)
 883. [Efficient Video Object Segmentation via Network Modulation](http://arxiv.org/abs/1802.01218v1)
 884. [Regularizing Deep Networks by Modeling and Predicting Label Structure](http://arxiv.org/abs/1804.02009v1)
-885. Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation
+885. [Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation](http://arxiv.org/abs/1805.04574v1)
 886. Face Detector Adaptation without Negative Transfer or Catastrophic Forgetting
 887. [Motion-Appearance Co-Memory Networks for Video Question Answering](http://arxiv.org/abs/1803.10906v1)
 888. [Compare and Contrast: Learning Prominent Visual Differences](http://arxiv.org/abs/1804.00112v2)
 889. Tangent Convolutions for Dense Prediction in 3D
 890. [Single-Shot Object Detection with Enriched Semantics](http://arxiv.org/abs/1712.00433v2)
-891. Generating Synthetic X-ray Images of a Person from the Surface Geometry
+891. [Generating Synthetic X-ray Images of a Person from the Surface Geometry](http://arxiv.org/abs/1805.00553v2)
 892. [Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering](http://arxiv.org/abs/1712.00377v1)
-893. Edit Probability for Scene Text Recognition
+893. [Edit Probability for Scene Text Recognition](http://arxiv.org/abs/1805.03384v1)
 894. [MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features](http://arxiv.org/abs/1712.04837v1)
 895. [Weakly-Supervised Action Segmentation with Iterative Soft Boundary Assignment](http://arxiv.org/abs/1803.10699v1)
 896. Texture Mapping for 3D Reconstruction with RGB-D Sensor
@@ -912,7 +912,7 @@
 911. [ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes](http://arxiv.org/abs/1711.11556v2)
 912. [Image to Image Translation for Domain Adaptation](http://arxiv.org/abs/1712.00479v1)
 913. A Face to Face Neural Conversation Model
-914. [Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification](http://arxiv.org/abs/1711.07027v2)
+914. [Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification](http://arxiv.org/abs/1711.07027v3)
 915. [FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors](http://arxiv.org/abs/1711.10703v1)
 916. [SO-Net: Self-Organizing Network for Point Cloud Analysis](http://arxiv.org/abs/1803.04249v4)
 917. [MoNet: Moments Embedding Network](http://arxiv.org/abs/1802.07303v2)
@@ -940,15 +940,15 @@
 939. Point-wise Convolutional Neural Networks
 940. Pixar: Real-time 3D Object Detection from Point Clouds
 941. HydraNets: Specialized Dynamic Architectures for Efficient Inference
-942. [Deep Depth Completion of a Single RGB-D Image](http://arxiv.org/abs/1803.09326v1)
+942. [Deep Depth Completion of a Single RGB-D Image](http://arxiv.org/abs/1803.09326v2)
 943. [Learning to Extract a Video Sequence from a Single Motion-Blurred Image](http://arxiv.org/abs/1804.04065v1)
 944. A Fast Resection-Intersection Method for the Known Rotation Problem
 945. [iVQA: Inverse Visual Question Answering](http://arxiv.org/abs/1710.03370v2)
 946. Crowd Counting via Adversarial Cross-Scale Consistency Pursuit
 947. Trust your Model: Light Field Depth Estimation with inline Occlusion Handling
-948. [PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition](http://arxiv.org/abs/1804.03492v2)
-949. A Memory Network Approach for Story-based Temporal Summarization of 360° Videos
-950. [Tags2Parts: Discovering Semantic Regions from Shape Tags](http://arxiv.org/abs/1708.06673v2)
+948. [PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition](http://arxiv.org/abs/1804.03492v3)
+949. [A Memory Network Approach for Story-based Temporal Summarization of 360° Videos](http://arxiv.org/abs/1805.02838v1)
+950. [Tags2Parts: Discovering Semantic Regions from Shape Tags](http://arxiv.org/abs/1708.06673v3)
 951. Jerk-Aware Video Acceleration Magnification
 952. A Robust Method for Strong Rolling Shutter Effects Correction Using Lines with Automatic Feature Selection
 953. [Mobile Video Object Detection with Temporally-Aware Feature Maps](http://arxiv.org/abs/1711.06368v2)
@@ -962,7 +962,7 @@
 961. [Dynamic Few-Shot Visual Learning without Forgetting](http://arxiv.org/abs/1804.09458v1)
 962. [Camera Style Adaptation for Person Re-identification](http://arxiv.org/abs/1711.10295v2)
 963. [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](http://arxiv.org/abs/1712.02616v2)
-964. NeuralNetwork-Viterbi: A Framework for Weakly Supervised Video Learning
+964. [NeuralNetwork-Viterbi: A Framework for Weakly Supervised Video Learning](http://arxiv.org/abs/1805.06875v1)
 965. Resource Aware Person Re-identification across Multiple Resolutions
 966. [Zero-Shot Super-Resolution using Deep Internal Learning](http://arxiv.org/abs/1712.06087v1)
 967. [Analysis of Hand Segmentation in the Wild](http://arxiv.org/abs/1803.03317v2)
